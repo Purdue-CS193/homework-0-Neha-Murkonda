@@ -1,9 +1,10 @@
 # Neha's First CS193 Homework
 
 ## My Favorite Things About CS193
-- It is a fun class.
-- We get to code.
+- It is a fun class
+- We get to code
 - It helps with CS180
+- The TA's are super nice
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
